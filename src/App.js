@@ -74,7 +74,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="row mt-4 text-center">
-        <h1> Mini Blog React + fetch API </h1>
+        <h1> Mini Blog React + fetch API + Despliegue</h1>
       </div>
       <div className="row p-2 mt-2">
         <button
